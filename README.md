@@ -1,6 +1,12 @@
 # Only NeoFetch ASCII Art
 
-[NeoFetch](https://github.com/dylanaraps/neofetch)
+[NeoFetch](https://github.com/dylanaraps/neofetch) bash ASCII art.
+
+<br><br>
+
+**Open [`os_asii_art.txt`](https://github.com/denv3rr/only_neofetch_ascii_art/blob/main/os_ascii_art.txt) and Ctrl/Cmd + F to search OS by name.**
+
+<br><br>
 
 ---
 
