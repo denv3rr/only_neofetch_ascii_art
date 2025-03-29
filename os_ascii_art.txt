@@ -1,7 +1,9 @@
 # ONLY the ASCII art function from the archived neofetch repo.
 # Original at: https://github.com/dylanaraps/neofetch/blob/master/neofetch
 
----
+# **Ctrl/Cmd + F to search OS by name.**
+
+# ------------------------------------------------------------------
 
 get_distro_ascii() {
     # This function gets the distro ascii art and colors.
